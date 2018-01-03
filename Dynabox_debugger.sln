@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dynabox_debugger", "DynaboxDebugger\Dynabox_debugger.csproj", "{84A68A74-37E0-42C1-9F26-15645E64D2EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84A68A74-37E0-42C1-9F26-15645E64D2EE}.Debug|x86.ActiveCfg = Debug|x86
+		{84A68A74-37E0-42C1-9F26-15645E64D2EE}.Debug|x86.Build.0 = Debug|x86
+		{84A68A74-37E0-42C1-9F26-15645E64D2EE}.Release|x86.ActiveCfg = Release|x86
+		{84A68A74-37E0-42C1-9F26-15645E64D2EE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB5A91B0-6D98-4F8B-92F3-38FEF156B854}
+	EndGlobalSection
+EndGlobal
